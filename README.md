@@ -64,6 +64,9 @@ So, I am sharing some free websites where you can create your resumes.
   
 #1 – Jobscan’s Resume Builder:  [https://lnkd.in/dD4MbKrs](https://lnkd.in/dD4MbKrs)  
   
+
+#1b – ResumeAI (free ATS checker):  [https://withresumeai.com/](https://withresumeai.com/)
+  
 #2 – CakeResume:  [https://lnkd.in/d77RXjSh](https://lnkd.in/d77RXjSh)  
   
 #3 – Resume Genius:  [https://resumegenius.com](https://resumegenius.com)  
